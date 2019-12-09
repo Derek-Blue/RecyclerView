@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="movie_name">電影名稱</string>
+    <string name="movie_date">上映日期</string>
+    <string name="movie_story">故事大綱</string>
+</resources>
